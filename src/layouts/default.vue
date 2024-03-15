@@ -4,4 +4,10 @@
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+useHead({
+  htmlAttrs: {
+    class: "dark"
+  }
+})
+</script>

@@ -8,6 +8,4 @@
   </main>
 </template>
 
-<script setup>
-console.log("Index Page")
-</script>
+<script setup></script>
